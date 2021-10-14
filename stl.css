@@ -1,0 +1,19 @@
+.error_message{
+
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.border_error{
+    border-color: red !important;
+}
+
+.succes_message{
+
+    color: green;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.border_succes{
+    border-color: green !important;
+}
